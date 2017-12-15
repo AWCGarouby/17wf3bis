@@ -3,3 +3,9 @@ body{
 	color:green;
 	text-align: center;
 }
+div{
+	width: 50%;
+	margin:0 auto;
+	background-color: white;
+	color:black;
+}
